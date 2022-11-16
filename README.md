@@ -3,7 +3,7 @@
 ## 알고리즘 자료구조 관련
 
 - [x] 조합(combination)
-- [ ] 순열(permutation)
+- [x] 순열(permutation)
 - [x] 최대공약수(gcd)
 
 <br />

@@ -6,10 +6,11 @@ export const combination = (arr, num) => {
     const rest = origin.slice(idx + 1);
     const recurResult = combination(rest, num - 1);
     const attach = recurResult.map((recurVal) => [val, ...recurVal]);
+
     result.push(...attach);
   });
 
   return result;
 };
 
-// combination([-2, 3, 0, 2, -5], 3);
+combination([-2, 3, 0, 2, -5], 3);
