@@ -1,0 +1,16 @@
+{
+  "name": "node_scratch_paper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zoo0190/node_scratch_paper.git"
+  },
+  "author": "ys",
+  "license": "ISC"
+}
