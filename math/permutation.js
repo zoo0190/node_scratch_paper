@@ -11,5 +11,3 @@ export const permutation = (arr, num) => {
 
   return result;
 };
-
-console.log(permutation([1, 2, 3, 4], 2));

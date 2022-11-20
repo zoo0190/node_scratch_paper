@@ -5,6 +5,7 @@
 - [x] 조합(combination)
 - [x] 순열(permutation)
 - [x] 최대공약수(gcd)
+- [x] 행렬(matrix)
 
 <br />
 

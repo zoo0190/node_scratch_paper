@@ -12,5 +12,3 @@ export const combination = (arr, num) => {
 
   return result;
 };
-
-combination([-2, 3, 0, 2, -5], 3);
