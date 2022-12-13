@@ -1,4 +1,4 @@
-const throttle = (cb, delay) => {
+export const throttle = (cb, delay) => {
   let timer;
   return (...args) => {
     if (timer) return;
